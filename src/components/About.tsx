@@ -6,7 +6,7 @@ const About = () => {
     {
       category: 'Programming Languages',
       icon: <Code className="w-6 h-6" />,
-      items: ['Python (NumPy, Pandas)', 'R (Data cleaning, Visualization)', 'Flutter', 'Dart', 'MySQL (DDL, DML, Constraints)']
+      items: ['Python', 'R', 'Flutter', 'Dart', 'MySQL']
     },
     {
       category: 'Data & Analytics',
@@ -16,7 +16,7 @@ const About = () => {
     {
       category: 'Development & Design',
       icon: <Palette className="w-6 h-6" />,
-      items: ['UI/UX Design', 'Mobile App Development', 'API Integration', 'Testing (Functional, Integration, UI Regression)']
+      items: ['UI/UX Design', 'Mobile App Development', 'Testing (Functional)']
     }
   ];
 

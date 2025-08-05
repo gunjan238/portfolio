@@ -119,7 +119,7 @@ const Projects = () => {
                   ))}
                 </div>
 
-                <div className="flex items-center space-x-3 pt-4 border-t border-gray-100">
+                {/* <div className="flex items-center space-x-3 pt-4 border-t border-gray-100">
                   <button className="flex items-center space-x-2 text-gray-600 hover:text-blue-600 hover:scale-105 transition-all duration-200 text-sm">
                     <Github size={16} />
                     <span>View Code</span>
@@ -128,7 +128,7 @@ const Projects = () => {
                     <ExternalLink size={16} />
                     <span>Live Demo</span>
                   </button>
-                </div>
+                </div> */}
               </div>
             </div>
           ))}

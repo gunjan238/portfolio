@@ -109,7 +109,7 @@ const handleSubmit = (e: React.FormEvent) => {
             </div>
 
             {/* Contact Details */}
-            <div className="space-y-4">
+            {/* <div className="space-y-4">
               {contactInfo.map((info, index) => (
                 <a
                   key={index}
@@ -127,11 +127,11 @@ const handleSubmit = (e: React.FormEvent) => {
                   </div>
                 </a>
               ))}
-            </div>
+            </div> */}
 
             {/* Social Links */}
             <div>
-              <h4 className="text-lg font-semibold text-gray-900 mb-4">Connect With Me</h4>
+              {/* <h4 className="text-lg font-semibold text-gray-900 mb-4">Connect With Me</h4> */}
               <div className="flex space-x-4">
                 {socialLinks.map((social, index) => (
                   <a
