@@ -30,7 +30,7 @@ A modern, responsive personal portfolio website built with **React**, showcasing
 
 ## 📸 Preview
 
-![Portfolio Screenshot](./screenshot.png) <!-- Optional: Add a screenshot image -->
+![Portfolio Screenshot](./web.png) <!-- Optional: Add a screenshot image -->
 
 ---
 
@@ -48,3 +48,4 @@ If you'd like to collaborate or connect:
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
