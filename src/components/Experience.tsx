@@ -22,7 +22,7 @@ const Experience = () => {
       company: 'Codveda Technologies',
       location: 'Remote',
       period: 'July 2025 – Aug 2025',
-      type: 'Current',
+      // type: 'Current',
       responsibilities: [
         'Worked on exploratory data analysis (EDA) tasks using Python, Pandas, and Matplotlib to uncover trends and correlations',
         'Data cleaning, pre-processing, and visualization performed for real-world datasets to support actionable insights',
