@@ -3,18 +3,7 @@ import { Calendar, MapPin, Building2 } from 'lucide-react';
 
 const Experience = () => {
   const experiences = [
-    {
-      title: 'Data Analysis Intern',
-      company: 'Codveda Technologies',
-      location: 'Remote',
-      period: 'July 2025 – Present',
-      type: 'Current',
-      responsibilities: [
-        'Worked on exploratory data analysis (EDA) tasks using Python, Pandas, and Matplotlib to uncover trends and correlations',
-        'Data cleaning, pre-processing, and visualization performed for real-world datasets to support actionable insights',
-        'Used Jupyter notebooks to document workflows and present findings effectively'
-      ]
-    },
+    
     {
       title: 'Software Engineer',
       company: 'Blockbuzz Innovate Pvt. Ltd.',
@@ -26,6 +15,18 @@ const Experience = () => {
         'Designed and implemented user interface features for more than 20+ user stories using Flutter and Dart, improving user interaction flow',
         'Conducted rigorous testing for 60+ test cases including functional, integration, and UI regression tests',
         'Created reusable widgets and modular components improving code maintainability by 25%'
+      ]
+    },
+    {
+      title: 'Data Analysis Intern',
+      company: 'Codveda Technologies',
+      location: 'Remote',
+      period: 'July 2025 – Aug 2025',
+      type: 'Current',
+      responsibilities: [
+        'Worked on exploratory data analysis (EDA) tasks using Python, Pandas, and Matplotlib to uncover trends and correlations',
+        'Data cleaning, pre-processing, and visualization performed for real-world datasets to support actionable insights',
+        'Used Jupyter notebooks to document workflows and present findings effectively'
       ]
     },
     {
